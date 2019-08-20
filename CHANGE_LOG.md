@@ -1,5 +1,9 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2016-0914: 0.6.4 (raidernick) for KSP 1.2
+	+ Changelog:
+	+ Update for KSP 1.2 pre-release
+	+ Add compatibility with miniavc
 * 2016-0701: 0.6.3 (raidernick) for KSP 1.1.3
 	+ Changelong:
 	+ Update for KSP 1.1.3
