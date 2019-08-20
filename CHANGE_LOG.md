@@ -1,5 +1,9 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2017-1229: 0.6.5.0 (raidernick) for KSP 1.2.
+	+ Changelog:
+	+ Includes a new fix by linuxgurugamer for animated thrust
+	+ DO NOT DOWNLOAD CAUSES DEBUG SPAM, GET LATEST VERSION!
 * 2017-1015: 0.6.4.9 (raidernick) for KSP 1.2.
 	+ Changelog:
 	+ Recompile for ksp 1.3.1
