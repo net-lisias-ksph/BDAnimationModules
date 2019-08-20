@@ -1,5 +1,8 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2016-0701: 0.6.3 (raidernick) for KSP 1.1.3
+	+ Changelong:
+	+ Update for KSP 1.1.3
 * 2016-0701: 0.6.2 (raidernick) for KSP 1.1.2
 	+ No changelog provided
 * 2015-0516: 0.6.1 (BahamutoD) for KSP 1.0.5
