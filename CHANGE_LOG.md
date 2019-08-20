@@ -1,5 +1,9 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2016-0921: 0.6.4.1 (raidernick) for KSP 1.2
+	+ Changelog:
+	+ Fix animation module
+	+ Fix versioning to avoid problem with CKAN
 * 2016-0914: 0.6.4 (raidernick) for KSP 1.2
 	+ Changelog:
 	+ Update for KSP 1.2 pre-release
