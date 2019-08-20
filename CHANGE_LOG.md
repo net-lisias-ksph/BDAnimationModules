@@ -1,5 +1,8 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2018-0103: 0.6.5.1 (raidernick) for KSP 1.2.
+	+ Changelog:
+	+ Fix animated thrust gimbal off debug spam
 * 2017-1229: 0.6.5.0 (raidernick) for KSP 1.2.
 	+ Changelog:
 	+ Includes a new fix by linuxgurugamer for animated thrust
