@@ -1,5 +1,9 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2017-0723: 0.6.4.7 (raidernick) for KSP 1.2.
+	+ Changelog:
+	+ Revert ksp 1.3 releases of mod for ksp 1.2.2 because of error in 1.3 versions
+	+ THIS WILL WORK WITH KSP 1.2.x ONLY!
 * 2017-0715: 0.6.4.6 (raidernick) for KSP 1.3
 	+ Changelog:
 	+ Update to include rnmodules removed from other mods and put here
