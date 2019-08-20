@@ -1,5 +1,8 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2019-0410: 0.6.5.7 (raidernick) for KSP 1.7.0
+	+ Changelog:
+	+ Recompile for KSP 1.7.0
 * 2018-1223: 0.6.5.6 (raidernick) for KSP 1.6.0
 	+ Changelog:
 	+ Recompile for KSP 1.6.0
