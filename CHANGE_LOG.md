@@ -1,5 +1,7 @@
 # BahamutoD Animation Modules :: Change Log
 
+* 2016-0701: 0.6.2 (raidernick) for KSP 1.1.2
+	+ No changelog provided
 * 2015-0516: 0.6.1 (BahamutoD) for KSP 1.0.5
 	+ added ability to toggle engine animations in editor
 	+ fixed spotlight turret being on in editor
